@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2334
     wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40016#The-Last-Rose-of-Summer
 gutenberg_issued: '2012-06-17'
 gutenberg_type: Text
 identifiers:
